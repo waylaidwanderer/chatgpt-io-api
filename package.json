@@ -1,0 +1,31 @@
+{
+  "name": "chatgpt-io-api",
+  "version": "1.0.0",
+  "description": "An API layer for ChatGPT, powered by chatgpt-io.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waylaidwanderer/chatgpt-io-api.git"
+  },
+  "keywords": [
+    "chatgpt",
+    "openai",
+    "gpt3",
+    "chatgpt-io",
+    "api"
+  ],
+  "author": "waylaidwanderer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/waylaidwanderer/chatgpt-io-api/issues"
+  },
+  "homepage": "https://github.com/waylaidwanderer/chatgpt-io-api#readme",
+  "dependencies": {
+    "chatgpt-io": "^1.0.4",
+    "dotenv": "^16.0.3",
+    "fastify": "^4.11.0"
+  }
+}
